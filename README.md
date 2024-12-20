@@ -34,6 +34,7 @@
 
 #
 <details>
+  <summary>👨‍💻 My Coding Journey</summary>
   <h3>👨‍💻 My Coding Journey</h3>
   <p>
     I started my coding journey as a Computer Engineering student with a passion for learning everything about technology from programming to system design and problem solving. 
