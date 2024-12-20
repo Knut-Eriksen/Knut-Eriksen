@@ -8,7 +8,7 @@
 
 🌟 I enjoy exploring new technologies, tackling challenges, and continuously learning to refine my skills. Check out my repositories to see my journey in action!
 
----
+#
 
 ### 🧰 Languages and Tools
 
