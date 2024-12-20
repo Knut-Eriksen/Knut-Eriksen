@@ -33,10 +33,10 @@
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 #
-<details>
+
   <summary><h3>👨‍💻 Knut's Coding Journey</h3></summary>
   <p>
     I started my coding journey as a Computer Engineering student with a passion for learning everything about technology — from programming to system design and problem-solving. 
     Over time, I’ve dived into various technologies and built projects that solve real-world problems. My goal is to continuously grow, explore new opportunities, and contribute to impactful solutions.
   </p>
-</details>
+
