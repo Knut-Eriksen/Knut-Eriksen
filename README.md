@@ -4,9 +4,9 @@
 
 👋 Hi, I’m a Computer Engineering student at the University of Agder (UIA), passionate about turning ideas into solutions through code.
 
-🔧 All coding projects are built from the ground up — from planning and design to solving real-life problems with clean, efficient code.
+🔧 All coding projects are built from the ground up. From planning and design to solving real life problems with clean, efficient code.
 
-🌟 I enjoy exploring new technologies, tackling challenges, and continuously learning to refine my skills. Check out my repositories to see my journey in action!
+🌟 I enjoy exploring new technologies, tackling challenges, and learning to refine my skills. Check out my repositories to see my journey in action!
 
 #
 
@@ -34,11 +34,10 @@
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 #
-<details>
-  <summary>👨‍💻 My Coding Journey</summary>
-  <h3>👨‍💻 My Coding Journey</h3>
-  <p>
-    I started my coding journey as a Computer Engineering student with a passion for learning everything about technology from programming to system design and problem solving. 
-    Over time, I have dived into various technologies and built projects that solve real-world problems. My goal is to grow, explore new opportunities, and contribute to important solutions.
-  </p>
+<summary>👨‍💻 My Coding Journey</summary>
+<h3>👨‍💻 My Coding Journey</h3>
+<p>
+  I started my coding journey as a Computer Engineering student with a passion for learning everything about technology from programming to system design and problem solving. 
+  Over time, I have dived into various technologies and built projects that solve real-world problems. My goal is to grow, explore new opportunities, and contribute to important solutions.
+</p>
 
