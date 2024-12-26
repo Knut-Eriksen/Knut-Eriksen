@@ -36,7 +36,8 @@
 #
 <h3>👨‍💻 My Coding Journey</h3>
 <p>
-  I started my coding journey as a Computer Engineering student with a passion for learning everything about technology from programming to system design and problem solving. 
-  Over time, I have dived into various technologies and built projects that solve real-world problems. My goal is to grow, explore new opportunities, and contribute to important solutions.
+  I began my coding journey as a Computer Engineering student wanting to learn about programming, system design, and problem solving. 
+  Over time, I have explored different technologies and built projects addressing real world challenges. 
+  My goal is to keep growing, discover new opportunities, and create to meaningful solutions.
 </p>
 
