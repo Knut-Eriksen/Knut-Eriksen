@@ -1,6 +1,6 @@
 # 🔭 Knut Eriksen
 
-**`Digital Craftsman (Developer/Engineer)`**
+**`Digital Craftsman (Developer/Student)`**
 
 👋 Hi, I’m a Computer Engineering student at the University of Agder (UIA), passionate about turning ideas into solutions through code.
 
