@@ -2,7 +2,8 @@
 
 **`Digital Craftsman (Developer/Student)`**
 
-👋 I’m a Computer Engineering student at the University of Agder (UIA), figuring out how to turn problems into solutions with code. I’m always experimenting with new technologies and building projects that actually solve real problems.
+👋 I’m a Computer Engineering student at the University of Agder (UIA), figuring out how to turn problems into solutions with code. I’m always experimenting with new technologies and building projects that actually solve 
+    real problems.
 
 🌟 I like learning by doing, so most of my projects are hands-on — from coding to troubleshooting. Check out my stuff to see what I’ve been up to!
 
