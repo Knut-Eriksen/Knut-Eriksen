@@ -2,11 +2,9 @@
 
 **`Digital Craftsman (Developer/Student)`**
 
-👋 Hi, I’m a Computer Engineering student at the University of Agder (UIA), passionate about turning ideas into solutions through code.
+👋 I’m a Computer Engineering student at the University of Agder (UIA), figuring out how to turn problems into solutions with code. I’m always experimenting with new technologies and building projects that actually solve real problems.
 
-🔧 All coding projects are built from the ground up. From planning and design to solving real life problems with clean, efficient code.
-
-🌟 I enjoy exploring new technologies, tackling challenges, and learning to refine my skills. Check out my repositories to see my journey in action!
+🌟 I like learning by doing, so most of my projects are hands-on — from coding to troubleshooting. Check out my stuff to see what I’ve been up to!
 
 #
 
@@ -32,13 +30,9 @@
 
 ![Knut's GitHub stats](https://github-readme-stats.vercel.app/api?username=Knut-Eriksen&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-
 #
 <h3>👨‍💻 My Coding Journey</h3>
 <p>
-  I began my coding journey as a Computer Engineering student wanting to learn about programming, system design, and problem solving. 
-  Over time, I have explored different technologies and built projects addressing real world challenges. 
-  My goal is to keep growing, discover new opportunities, and create to meaningful solutions.
+  I started coding as a Computer Engineering student because I wanted to understand how things work, from programming to system design and problem solving. Over time, I’ve experimented with different technologies and worked on projects that solve real-world problems. My aim is to keep learning, explore new things, and build practical solutions along the way.
 </p>
 
