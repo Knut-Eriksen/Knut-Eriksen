@@ -2,10 +2,10 @@
 
 **`Digital Craftsman (Developer/Student)`**
 
-👋 I’m a Computer Engineering student at the University of Agder (UIA), figuring out how to turn problems into solutions with code. I’m always 
+👋 I'm a Computer Engineering student at the University of Agder (UIA), turning problems into solutions with code. I’m always 
     experimenting with new technologies and building projects that actually solve real problems.
 
-🌟 I like learning by doing, so most of my projects are hands-on — from coding to troubleshooting. Check out my stuff to see what I’ve been up to!
+🌟 I like learning by doing, so most of my projects are hands on, from coding to troubleshooting. Check out my repository to see what I have created.
 
 #
 
@@ -20,10 +20,9 @@
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+
 <br />
-
-
-
 
 #
 
