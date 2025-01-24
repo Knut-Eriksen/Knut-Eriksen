@@ -31,8 +31,3 @@
 ![Knut's GitHub stats](https://github-readme-stats.vercel.app/api?username=Knut-Eriksen&show_icons=true&theme=gruvbox)
 
 #
-<h3>👨‍💻 My Coding Journey</h3>
-<p>
-  I started coding as a Computer Engineering student because I wanted to understand how things work, from programming to system design and problem solving. Over time, I’ve experimented with different technologies and worked on projects that solve real-world problems. My aim is to keep learning, explore new things, and build practical solutions along the way.
-</p>
-
